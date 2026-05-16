@@ -1,0 +1,40 @@
+🎹 RESONANCE SYSTEMS — MODEL X
+Flagship Hybrid Power Synth
+El Model X es un sintetizador monofónico de arquitectura avanzada que combina el calor del modelado analógico con la precisión del control digital. Su diseño robusto y su ruta de señal optimizada permiten crear desde bajos profundos y percusivos hasta leads agresivos y texturas atmosféricas.
+🛠 Arquitectura de Sonido
+1. Núcleo de Osciladores (Oscillator Bank)
+Triple Oscilador Principal: Tres osciladores independientes con formas de onda seleccionables (SAW, SQUARE, TRIANGLE).
+Sub-Oscillator: Un oscilador adicional de apoyo para reforzar las frecuencias graves, con octavación dedicada para mayor "punch" en los bajos.
+Controles de Afinación: Cada oscilador cuenta con controles de Octava y Detune (desafinación fina) para crear sonidos masivos y corales.
+2. Sección de Mezclador (Mixer)
+Consola de mezcla dedicada con faders deslizantes para controlar los niveles individuales de los 3 osciladores y el Sub-osc.
+Noise Floor: Generador de ruido blanco integrado para añadir textura y carácter analógico.
+Botones de Mute: Control instantáneo para aislar fuentes de sonido durante el diseño sonoro.
+3. Filtro de Modelado Analógico (Analog Filter)
+Low Pass Filter (24dB/oct): Filtro de paso bajo con resonancia agresiva.
+Drive: Circuito de saturación pre-filtro para añadir armónicos y distorsión cálida.
+Key Tracking: El corte del filtro sigue la nota ejecutada para una respuesta natural en todo el teclado.
+Envelope Amount: Control de cuánta influencia tiene la envolvente sobre la frecuencia de corte.
+4. Generación de Envolventes (ADSR)
+Amp Envelope: Envolvente de amplitud (Attack, Decay, Sustain, Release) dedicada para modelar la dinámica del volumen.
+Filter Envelope: Envolvente secundaria para animar el brillo del sonido de forma percusiva o lenta.
+5. Modulación y Sync
+LFO Multiuso: Con control de Rate (velocidad) y Mix (intensidad).
+MIDI Clock Sync: Innovadora función de sincronización que permite bloquear el LFO al tempo de tu DAW (como Ableton Live) mediante mensajes MIDI Clock (0xF8).
+Glide (Portamento): Control deslizante para transiciones suaves entre notas, ideal para leads de sintetizador clásico.
+6. Rack de Efectos (FX Engine)
+Saturación/Drive: Para añadir agresividad.
+Chorus: Expansión estéreo y movimiento armónico.
+Delay: Eco digital con tiempo y mezcla ajustable.
+Reverb: Simulación de espacio para añadir profundidad y atmósfera.
+🎨 Interfaz y Diseño (Industrial Design)
+Chasis Premium: Acabado en negro mate con laterales de madera real texturizada.
+Visual Feedback: Indicadores LED rojos para estados de potencia y sincronización.
+Controles Táctiles: Knobs (perillas) y switches (conmutadores) diseñados para una manipulación precisa con respuesta visual inmediata.
+Teclado Integrado: Interfaz de piano sensible con ruedas de Pitch y Modulación.
+🚀 Especificaciones Técnicas
+Motor: AudioEngine basado en Web Audio API de alta fidelidad.
+Sincronización: Soporte MIDI nativo para integración con hardware y software externo.
+Polifonía: Monofónico (Prioridad a la última nota) para emulación clásica de sintes de performance.
+Estética: UI reactiva con animaciones fluidas y modo "Power Off" de ahorro de energía.
+El Model X no es solo un simulador, es un instrumento completo para el productor moderno que busca el sonido característico de los sintetizadores de hardware más icónicos del mundo.
